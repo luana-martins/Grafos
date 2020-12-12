@@ -1,0 +1,32 @@
+KNN,,,DecisionTree,,,SVM,,,Random-Forest,
+concave points_worst,5,,concave points_worst,7,,radius_worst,11,,texture_mean,7
+fractal_dimension_se,4,,perimeter_worst,4,,area_worst,10,,area_worst,5
+perimeter_worst,4,,area_worst,4,,smoothness_se,10,,perimeter_worst,5
+smoothness_se,4,,texture_mean,3,,concave points_mean,9,,radius_mean,5
+texture_worst,4,,smoothness_mean,3,,concave points_se,9,,concave points_worst,4
+compactness_se,3,,radius_mean,3,,fractal_dimension_se,9,,concavity_se,4
+concave points_mean,3,,texture_mean,2,,area_mean,8,,fractal_dimension_mean,4
+concavity_se,3,,symmetry_worst,2,,fractal_dimension_worst,8,,fractal_dimension_worst,4
+symmetry_se,3,,fractal_dimension_se,2,,texture_worst,8,,smoothness_mean,4
+area_worst,2,,fractal_dimension_mean,2,,compactness_se,7,,smoothness_worst,4
+compactness_mean,2,,concavity_se,2,,concavity_se,7,,symmetry_se,4
+concave points_se,2,,compactness_mean,2,,perimeter_mean,7,,texture_worst,4
+fractal_dimension_mean,2,,radius_worst,1,,symmetry_se,7,,symmetry_mean,3
+fractal_dimension_worst,2,,radius_se,1,,symmetry_worst,7,,texture_se,3
+radius_se,2,,fractal_dimension_worst,1,,compactness_mean,6,,area_se,2
+radius_worst,2,,concavity_worst,1,,smoothness_worst,6,,compactness_se,2
+smoothness_worst,2,,concavity_mean,1,,concavity_worst,5,,compactness_worst,2
+texture_mean,2,,concave points_mean,1,,radius_mean,5,,concave points_mean,2
+area_mean,1,,compactness_se,1,,smoothness_mean,5,,concave points_se,2
+compactness_worst,1,,area_se,1,,texture_mean,5,,concavity_mean,2
+concavity_mean,1,,area_mean,1,,texture_se,5,,concavity_worst,2
+perimeter_mean,1,,,,,compactness_worst,4,,perimeter_mean,2
+radius_mean,1,,,,,perimeter_worst,4,,perimeter_se,2
+smoothness_mean,1,,,,,radius_se,4,,radius_worst,2
+symmetry_mean,1,,,,,concave points_worst,3,,smoothness_se,2
+"texture_se
+
+",1,,,,,concavity_mean,3,,symmetry_worst,2
+,,,,,,symmetry_mean,3,,area_mean,1
+,,,,,,area_se,2,,compactness_mean,1
+,,,,,,perimeter_se,1,,fractal_dimension_se,1

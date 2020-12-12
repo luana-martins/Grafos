@@ -1,4 +1,4 @@
-# Seleção de Features para aClassificação de Dados de Saúde
+# Seleção de Features para a Classificação de Dados de Saúde
 
 ## Luana Almeida Martins, Jalisson Henrique, Tiago Fernandes
 

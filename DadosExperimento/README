@@ -1,0 +1,11 @@
+Este diretório contém todos os dados do experimento executado:
+- Análise: apresenta um resumo dos dados
+- Features Selecionadas: apresenta a quantidade de features selecionadas e a acurácia obtida
+- JLT: apresenta a frequencia com que cada feature foi selecionada pelo algoritmo JLT
+- SFS: apresenta a frequencia com que cada feature foi selecionada pelo algoritmo SFS
+- Precisão: apresenta a precisão dos algoritmos executados
+- Recall: apresenta o recall dos algoritmos executados
+- F1-Score: apresenta o f1-score dos algoritmos executados
+- Supporte: apresenta a divisão do conjunto de treino 
+
+Disponível em: https://docs.google.com/spreadsheets/d/197GQ0Tl1SjeC1VlnV8k-8aZ6spAVZL_9OFHktfOukVQ

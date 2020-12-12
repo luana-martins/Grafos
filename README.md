@@ -1,4 +1,4 @@
-# Trabalho de Grafos
+# Seleção de Features para aClassificação de Dados de Saúde
 
 ## Luana Almeida Martins, Jalisson Henrique, Tiago Fernandes
 
